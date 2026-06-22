@@ -14,16 +14,14 @@
 - Always exploring real-world applications of computing
 
 ---
+## 🛠️ SKILLS
 
-## 🛠️ Skills & Certifications
-
-- Java ☕  
-- JavaFX 🎨  
-- SQL 🗄️  
-- CAPM (Certified Associate in Project Management) 📊  
-- Problem Solving 🧠  
-
----
+- Programming Languages: Java, Verilog, Assembly, SQL, HTML, CSS, C++  
+- Frameworks & Libraries: JavaFX  
+- Tools & Platforms: Figma, MySQL, PowerPoint, Excel, Google Cloud Platform (GCP) 
+- Networking: CCNA-level knowledge (Cisco)  
+- UI/UX Design: Wireframing, Prototyping (Figma)  
+- Soft Skills: Communication, Leadership, Public Speaking, Stakeholder Management, Data Analysis, Report Writing, Marketing, Project Management, Agile Methodology
 
 ## 📫 Contact
 
