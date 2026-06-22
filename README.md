@@ -26,6 +26,6 @@
 ## 📫 Contact
 
 - Email:lamajed988@gmail.com 
-- LinkedIn:(https://www.linkedin.com/in/lamar-alzahrani-313930299?utm_source=share_via&utm_content=profile&utm_medium=member_ios)---
+- LinkedIn:(linkedin.com/in/lamaralzahrani-cs)---
 
 ⭐ Always learning, always improving.
