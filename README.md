@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Lamar Alzahrani
 
-<!--
-**LamarAlzahrani/LamarAlzahrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Princess Nourah University  
+🤖 Passionate about Artificial Intelligence and emerging technologies  
+💡 Interested in building smart and practical AI solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 About Me
+
+- Computer Science student at PNU  
+- Interested in AI, Software Development, and Data Science  
+- Passionate about learning new technologies and improving my skills  
+- Always exploring real-world applications of computing
+
+---
+
+## 🛠️ Skills & Certifications
+
+- Java ☕  
+- JavaFX 🎨  
+- SQL 🗄️  
+- CAPM (Certified Associate in Project Management) 📊  
+- Problem Solving 🧠  
+
+---
+
+## 📫 Contact
+
+- Email:lamajed988@gmail.com 
+- LinkedIn:(https://www.linkedin.com/in/lamar-alzahrani-313930299?utm_source=share_via&utm_content=profile&utm_medium=member_ios)---
+
+⭐ Always learning, always improving.
